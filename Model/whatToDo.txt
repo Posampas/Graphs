@@ -1,0 +1,35 @@
+!!!Stworzę jak narazie program który bedzie wytwarzał adjacency matrix do narysowanego grafu.!!!
+
+- Dodawanie wierzchołków działa teraz muszę zająć się dołączaniem
+
+
+- Czyli teraz chyba ostation budowałem model mogę więc teraz dodawać do nowe wierzchołki do modelue i
+zwiększa to całkowty rozmiar macieży
+- Czyli teraz zajmuje się łączeniem wieżchołków
+
+- łączenie też jako tako działa
+- teraz zajmę się napisaniem usówania wierzchołków
+
+- usuwanie skonczone teraz należy zająć się dodawaniem krawędzi do każdego połaczenia
+- dodawanie wierzchołków do ekranu działą teraz należy zająć się znaznaczeniem ich
+
+- znanznaczanie wierzchołków
+- dodałem zaznaczenie teraz dodam odznaczanie po naciśnięciu ESC
+- odznaczanie dodane walczyłem z tym cały wczorajszy dzień dziś
+
+- Teraz usównie
+
+-- trochę mnie tu nie było ale usównie chyba jest już zrobione no to teraz należy zrobić
+-- połączenia
+
+- Chce zrobić coś takiego że pierwsze połączenie pomędzy tymi dwoma wierzchołaki będzie
+    prostą linią a kolejne bedę to już łuki, te łuki muszą pamiętać odchodzić coraz dalej i dalej
+    w swojej. Więc moze teraz nauczę się roibić łuki
+
+- każdy vertex musi miec swój shape abo lepiej całą listę shapów i teraz bazujac na pozycji w tej liscie
+będzie moża naprzykłąd przemnożyc odległośc od środka przez index
+
+ - dodawanie wierzchołków działa mniej więcej
+ teraz postaram się zrobić żeby można było dodać wieciej niż jedną krawędz do pomiędzy wierzchołkami
+ i żeby tworzyły one kręgi, potem postaram się dodać strzałki i loopy
+
